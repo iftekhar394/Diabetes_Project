@@ -1,0 +1,2 @@
+open this link 
+https://diabetesproject-u6g3jmaqe7f4jre5gguuti.streamlit.app/
